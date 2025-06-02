@@ -13,3 +13,6 @@ A simple Typescript + HTML/CSS/JS web app to search YouTube and Export Metadata 
    ```bash
    git clone https://github.com/aayushmishramechatronics/youtube-metadata-extractor.git
    cd youtube-metadata-extractor
+2. Add your Youtube Data API v3 Key in the .env file:
+   ```bash
+   YT_API_KEY='your_api_key'
