@@ -8,8 +8,8 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "YouTube Metadata Extractor",
-  description: "Search YouTube videos and extract metadata",
-    generator: 'v0.dev'
+  description: "extract metadata",
+    generator: 'aayush.dev'
 }
 
 export default function RootLayout({
